@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.0.1](https://github.com/Vivswan/cloud-speech/compare/v2.0.0...v2.0.1) (2026-09-11)
+
+
+### Features
+
+* render the store screenshots in every extension locale ([#204](https://github.com/Vivswan/cloud-speech/issues/204)) ([1333cee](https://github.com/Vivswan/cloud-speech/commit/1333cee344bbe0c8cafdff356d5af384c6b6916b))
+* run on Firefox for Android without the context menu and shortcut APIs ([#203](https://github.com/Vivswan/cloud-speech/issues/203)) ([e75b289](https://github.com/Vivswan/cloud-speech/commit/e75b289907a2372356d105b9c4e9d8343626f83d))
+
+
+### Bug Fixes
+
+* satisfy the AMO validator's manifest and content-script warnings ([#197](https://github.com/Vivswan/cloud-speech/issues/197)) ([83944c8](https://github.com/Vivswan/cloud-speech/commit/83944c84cfb027063f9073cff2a24cb4b4d90fb2))
+
 ## [2.0.0](https://github.com/Vivswan/cloud-speech/compare/v1.0.6...v2.0.0) (2026-09-09)
 
 
